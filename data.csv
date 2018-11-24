@@ -1,0 +1,16 @@
+﻿Idade;Diagnóstico;Astigmatismo;Taxa Lacrimal;Lente
+Infantil;Miopia;Não;Reduzida;Nenhuma
+Infantil;Miopia;Sim;Normal;Gelatinosa
+Infantil;Hipermetropia;Não;Normal;Gelatinosa
+Infantil;Hipermetropia;Sim;Normal;Dura
+Adolescente;Miopia;Não;Reduzida;Gelatinosa
+Adolescente;Miopia;Sim;Reduzida;Nenhuma
+Adolescente;Miopia;Não;Normal;Dura
+Adolescente;Hipermetropia;Não;Reduzida;Gelatinosa
+Adolescente;Hipermetropia;Sim;Normal;Dura
+Adulto;Miopia;Não;Normal;Gelatinosa
+Adulto;Miopia;Sim;Normal;Dura
+Adulto;Miopia;Sim;Normal;Gelatinosa
+Adulto;Hipermetropia;Não;Reduzida;Nenhuma
+Adulto;Hipermetropia;Sim;Normal;Gelatinosa
+Adulto;Hipermetropia;Não;Normal;Gelatinosa
